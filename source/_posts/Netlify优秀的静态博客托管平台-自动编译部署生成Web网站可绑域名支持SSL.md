@@ -1,5 +1,5 @@
 ---
-title: Netlify优秀的静态博客托管平台-自动编译部署生成Web网站可绑域名支持SSL
+title: Netlify优秀的静态博客托管平台
 date: 2017-06-05 22:45:16
 tags:Netlify
 ---
