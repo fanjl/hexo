@@ -27,7 +27,7 @@ ssh -T git@github.com
 Warning: Permanently added ‘github.com,204.232.175.90’ (RSA) to the list of known hosts.
 Permission denied (publickey).
 则说明可以连接。
-
+<!-- more -->
 3.创建本地SSH密钥
 
 检查~/.ssh目录下是否有id_rsa（私钥）和id_rsa.pub（公钥）文件，如果有，则备份出来，删除原文件，再执行如下语句；否则直接执行如下语句：

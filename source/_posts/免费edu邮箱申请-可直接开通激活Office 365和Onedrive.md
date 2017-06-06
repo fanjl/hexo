@@ -11,7 +11,7 @@ grammar_cjkRuby: true
 
 这里还有一些邮箱使用技巧：本地邮箱客户端Rainloop可以直接登录查看Gmail邮件；Rainloop则相当于一个云端的Rainloop，直接运行在空间上供所有用户访问；iRedMail是搭建邮箱服务器的必备工具之一。
 免费edu邮箱申请-可直接开通激活Office 365和Onedrive
-
+<!-- more -->
 一、申请注册账号
 
 1、网站地址：

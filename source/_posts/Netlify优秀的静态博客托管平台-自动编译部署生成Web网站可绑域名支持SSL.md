@@ -13,6 +13,7 @@ Netlify优秀的静态博客托管平台-自动编译部署生成Web网站可绑
 2、Pancake.io,Postach.io免费将Dropbox和Evernote变身为静态博客空间
 3、用Octopress免费静态博客系统在Github免费空间上搭建个人网站
 Netlify优秀的静态博客托管平台-自动编译部署生成Web网站可绑域名支持SSL
+<!-- more -->
 一、 Netlify使用前准备：熟悉Github和Git
 1、Github官网：
 1、官方网站：https://github.com/
