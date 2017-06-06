@@ -1,3 +1,8 @@
+---
+title: Ubuntu下GitHub的使用
+date: 2017-06-06 10:17:16
+tags: ubuntu github
+---
 文将对Ubuntu下Git的安装，以及如何连接GitHub进行讲解。
 1.环境
 
