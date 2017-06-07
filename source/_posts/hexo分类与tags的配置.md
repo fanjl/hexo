@@ -19,6 +19,7 @@ type: "categories"
 comments: false
 ---
 ```
+<!--more-->
 # <h2>添加标签<h2>
 hexo new page tags
 确认站点配置文件里有tag_dir: tags
