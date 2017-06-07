@@ -1,6 +1,7 @@
 ---
 title: 免费edu邮箱申请-可直接开通激活Office 365和Onedrive 
-tags: edu邮箱 office 365 onedrive
+date: 2017-06-06 12:17:16
+tags: [edu邮箱,office365,onedrive]
 grammar_cjkRuby: true
 ---
 
