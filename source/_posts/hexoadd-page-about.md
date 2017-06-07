@@ -1,7 +1,7 @@
 ---
 title: hexo添加about页面 
 tags: [hexo,about]
-date: 2017年06月07日 10时14分17秒
+date: 17-06-07 11:07:33
 grammar_cjkRuby: true
 ---
 hexo添加about页面大致分两步，新建about页面和在菜单中添加链接

@@ -1,7 +1,7 @@
 ---
 title: hexo分类与tags的配置
 tags: [hexo,tags,cagegories]
-date: 2017年06月07日 09时48分30秒
+date: 17-06-07 11:06:42
 grammar_cjkRuby: true
 ---
 # <h2>添加分类<h2>
